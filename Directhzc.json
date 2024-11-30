@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "weixinsxy.com",
+      ]
+    },
+    {
+      "domain_suffix": [
+	".cgw2.com"
+      ]
+    },
+  ]
+}
