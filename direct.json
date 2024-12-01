@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "gw2.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "gw2"
+      ]
+    }
+  ]
+}
